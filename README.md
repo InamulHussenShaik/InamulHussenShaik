@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👯 I’m looking to collaborate on **front end development**
+- 👯 I’m looking to collaborate on **Back-End Development**
 
 - 📫 How to reach me **inamulg786@gmail.com**
 
