@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **eCommerce Website**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently doing project on  **CRUD Operations On MySQL Server by using SpringBoot**
 
 - 👯 I’m looking to collaborate on **Back-End Development**
 
