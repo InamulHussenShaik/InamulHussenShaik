@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inamulhussenshaik&label=Profile%20views&color=0e75b6&style=flat" alt="inamulhussenshaik" /> </p>
 
-- 🔭 I’m currently working on **eCommerce Website**
+- 🔭 I’m currently working on **E-Learning Platform**
 
 - 🌱 I’m currently doing project on  **CRUD Operations On MySQL Server by using SpringBoot**
 
