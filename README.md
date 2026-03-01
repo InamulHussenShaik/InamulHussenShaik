@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inamul Hussen Shaik</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Vue.js | React | AWS | MySQL | Redis</h3>
+<h3 align="center">Java Full Stack Dev | Spring Boot | Vue.js | React | AWS | MySQL | Redis</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=inamulhussenshaik&label=Profile%20views&color=0e75b6&style=flat" alt="inamulhussenshaik" />
